@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Semana01\Exemplo01\bin\Debug\Exemplo01.exe.config
+C:\Users\Lucas\source\repos\Semana01\Exemplo01\bin\Debug\Exemplo01.exe
+C:\Users\Lucas\source\repos\Semana01\Exemplo01\bin\Debug\Exemplo01.pdb
+C:\Users\Lucas\source\repos\Semana01\Exemplo01\obj\Debug\Exemplo01.csprojAssemblyReference.cache
+C:\Users\Lucas\source\repos\Semana01\Exemplo01\obj\Debug\Exemplo01.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Semana01\Exemplo01\obj\Debug\Exemplo01.exe
+C:\Users\Lucas\source\repos\Semana01\Exemplo01\obj\Debug\Exemplo01.pdb

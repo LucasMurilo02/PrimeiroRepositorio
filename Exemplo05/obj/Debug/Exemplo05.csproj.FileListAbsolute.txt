@@ -1,0 +1,6 @@
+C:\Users\Lucas\source\repos\Semana01\Exemplo05\bin\Debug\Exemplo05.exe.config
+C:\Users\Lucas\source\repos\Semana01\Exemplo05\bin\Debug\Exemplo05.exe
+C:\Users\Lucas\source\repos\Semana01\Exemplo05\bin\Debug\Exemplo05.pdb
+C:\Users\Lucas\source\repos\Semana01\Exemplo05\obj\Debug\Exemplo05.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Semana01\Exemplo05\obj\Debug\Exemplo05.exe
+C:\Users\Lucas\source\repos\Semana01\Exemplo05\obj\Debug\Exemplo05.pdb

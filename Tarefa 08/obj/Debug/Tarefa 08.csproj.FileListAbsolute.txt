@@ -1,0 +1,7 @@
+C:\Users\Lucas\source\repos\Semana01\Tarefa 08\bin\Debug\Tarefa 08.exe.config
+C:\Users\Lucas\source\repos\Semana01\Tarefa 08\bin\Debug\Tarefa 08.exe
+C:\Users\Lucas\source\repos\Semana01\Tarefa 08\bin\Debug\Tarefa 08.pdb
+C:\Users\Lucas\source\repos\Semana01\Tarefa 08\obj\Debug\Tarefa 08.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Semana01\Tarefa 08\obj\Debug\Tarefa 08.exe
+C:\Users\Lucas\source\repos\Semana01\Tarefa 08\obj\Debug\Tarefa 08.pdb
+C:\Users\Lucas\source\repos\Semana01\Tarefa 08\obj\Debug\Tarefa 08.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Lucas\source\repos\Semana01\Tarefa 11\obj\Debug\Tarefa 11.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\Semana01\Tarefa 11\bin\Debug\Tarefa 11.exe.config
+C:\Users\Lucas\source\repos\Semana01\Tarefa 11\bin\Debug\Tarefa 11.exe
+C:\Users\Lucas\source\repos\Semana01\Tarefa 11\bin\Debug\Tarefa 11.pdb
+C:\Users\Lucas\source\repos\Semana01\Tarefa 11\obj\Debug\Tarefa 11.exe
+C:\Users\Lucas\source\repos\Semana01\Tarefa 11\obj\Debug\Tarefa 11.pdb
